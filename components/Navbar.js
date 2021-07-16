@@ -15,7 +15,7 @@ const Navbar = () => (
                         <a className="nav-link">Blog</a>
                     </Link>
                     <Link href="/github">
-                        <a className="nav-link" href="#">Github</a>
+                        <a className="nav-link">Github</a>
                     </Link>
                 </div>
             </div>
